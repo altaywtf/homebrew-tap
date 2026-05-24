@@ -4,8 +4,8 @@ class Endelito < Formula
   url "https://github.com/altaywtf/endelito/releases/download/v1.1.0/endelito-macos-arm64.zip"
   sha256 "6c527f85455bf9fb562c497eca45386176c31b36f6b33de917692dc9934a8461"
 
-  depends_on :macos
   depends_on arch: :arm64
+  depends_on :macos
 
   def install
     libexec.install "Endelito.app"
