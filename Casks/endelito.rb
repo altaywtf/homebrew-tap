@@ -1,8 +1,8 @@
 cask "endelito" do
-  version "1.2.0"
-  sha256 "a9541ffb6d9a4f167461ccb264797ee68859e4a6a6416d5b96a842c19e1364f8"
+  version "1.2.1"
+  sha256 "88718dc4db704002a234520e831353381781febd160a50d1d38bb0475e4d8c82"
 
-  url "https://github.com/altaywtf/endelito/releases/download/v#{version}/endelito-macos-arm64.zip"
+  url "https://github.com/altaywtf/endelito/releases/download/v1.2.1/endelito-macos-arm64.zip"
   name "Endelito"
   desc "Menu bar WebKit player and CLI control for Endel"
   homepage "https://github.com/altaywtf/endelito"
