@@ -1,9 +1,9 @@
 class Endelito < Formula
   desc "Menu bar WebKit player and CLI control for Endel"
   homepage "https://github.com/altaywtf/endelito"
-  url "https://github.com/altaywtf/endelito/releases/download/v1.1.0/endelito-macos-arm64.zip"
-  version "1.1.0"
-  sha256 "6c527f85455bf9fb562c497eca45386176c31b36f6b33de917692dc9934a8461"
+  url "https://github.com/altaywtf/endelito/releases/download/v1.2.0/endelito-macos-arm64.zip"
+  version "1.2.0"
+  sha256 "a9541ffb6d9a4f167461ccb264797ee68859e4a6a6416d5b96a842c19e1364f8"
 
   depends_on arch: :arm64
   depends_on :macos
